@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+* {
+  font-family: "Poppins", cursive;
+}
+.projectImg {
+  width: 25rem;
+  padding: 5rem 1rem 1rem 4rem;
+  align-items: center;
+  justify-content: center;
+}
+.projectImg:hover {
+  width: 27rem;
+  transition: 1s ease-in-out;
+  cursor: progress;
+}
+#projectTitle {
+  padding: 6rem 0rem 0rem 0rem;
+  text-align: center;
+  color: yellow;
+  transition: 1.5s;
+}
+#projectTitle:hover {
+  color: white;
+  transition: 1s;
+  font-size: x-large;
+  cursor: pointer;
+}
+
+.projectDesc {
+  padding: 3rem 0rem 0rem 3rem;
+  font-size: larger;
+  text-align: center;
+}
+.reactTitle {
+  color: rgb(63, 189, 239);
+  cursor: pointer;
+}
+.projectsImages {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 1980px) {
+  .projectDesc {
+    padding: 3rem 0rem 0rem 0rem;
+    font-size: larger;
+    text-align: center;
+  }
+
+  .projectImg {
+    width: 20rem;
+    padding: 5rem 1rem 0rem 1rem;
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+  }
+  .projectImg:hover {
+    width: 24rem;
+    transition: 1s;
+    cursor: default;
+  }
+}

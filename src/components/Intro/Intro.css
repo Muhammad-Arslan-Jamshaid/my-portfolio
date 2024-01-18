@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+#intro {
+  height: calc(100vh - 4rem);
+  width: 100vw;
+  max-width: 100rem;
+  margin: 0 auto;
+  overflow: hidden;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+.backgroundImg {
+  width: 100%;
+  position: absolute;
+  top: -4rem;
+  z-index: -1;
+  object-fit: cover;
+  height: 100vh;
+}
+.introContent {
+  height: 100vh;
+  width: 100vw;
+  padding: 0 2rem;
+  font-size: 3rem;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hirebtn {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  margin: 1rem 0rem;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  transition: 0.8s all;
+}
+
+.hirebtn:hover {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 1rem 2rem;
+  margin: 1rem 0rem;
+  border-radius: 2rem;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.8s all;
+}
+.hello {
+  font-size: 1.75rem;
+  font-weight: 100;
+  cursor: default;
+}
+.introName {
+  color: yellow;
+  cursor: default;
+}
+.introParagraph {
+  font-size: large;
+  font-weight: 100;
+}
+
+.course {
+  cursor: default;
+  color: beige;
+}

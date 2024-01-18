@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+#aboutTitle {
+  font-family: "Poppins", cursive;
+  text-align: center;
+  margin-top: 10rem;
+  margin-bottom: 3rem;
+  color: yellow;
+  font-size: large;
+}
+#aboutTitle:hover {
+  color: white;
+  transition: 1s;
+  font-size: x-large;
+  cursor: pointer;
+}
+.aboutDesc {
+  font-size: medium;
+  font-family: "poppins", cursive;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 75rem;
+  padding: 0.5rem 0rem 6rem 3rem;
+  font-weight: 800;
+  font-size: x-large;
+  word-spacing: 5px;
+}
+.aboutSkill {
+  color: red;
+  cursor: pointer;
+}
+.aboutName {
+  color: beige;
+  cursor: pointer;
+}
+.React {
+  color: rgb(63, 189, 239);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+  .aboutDesc {
+    font-size: medium;
+    font-family: "poppins", cursive;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 75rem;
+    padding: 0rem 1rem 5rem 1rem;
+    font-weight: 800;
+    font-size: larger;
+    word-spacing: 2px;
+  }
+
+  .aboutTitle {
+    font-family: "Poppins", cursive;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    color: yellow;
+    font-size: large;
+  }
+  .aboutTitle:hover {
+    color: white;
+    transition: 1s;
+    font-size: x-large;
+    cursor: pointer;
+  }
+}
