@@ -3,6 +3,9 @@ import "./Projects.css";
 import Daraz from "../../assets/DarazClone.png";
 import Form from "../../assets/TextForm.png";
 import Portfolio from "../../assets/My-Portfolio.png";
+import Limelight from "../../assets/LimelightClone.png";
+import KFC from "../../assets/KFCclone.png";
+import Portfolio2 from "../../assets/Portfolio2.png";
 
 const Projects = () => {
   return (
@@ -18,6 +21,9 @@ const Projects = () => {
         <img className="projectImg" src={Daraz} alt=" Website" />
         <img className="projectImg" src={Portfolio} alt=" Website" />
         <img className="projectImg" src={Form} alt=" Website" />
+   <img className="projectImg" src={Form} alt=" Website" />
+        <img className="projectImg" src={Limelight} alt=" Website" />
+        <img className="projectImg" src={Portfolio2} alt=" Website" />
       </div>
     </>
   );
