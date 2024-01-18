@@ -7,6 +7,7 @@
   margin-bottom: 3rem;
   color: yellow;
   font-size: large;
+  transition: 1.5s;
 }
 #aboutTitle:hover {
   color: white;
