@@ -6,6 +6,7 @@
   margin-bottom: 2rem;
   color: yellow;
   font-size: large;
+  transition: 1.5s;
 }
 #contactTitle:hover {
   color: white;
