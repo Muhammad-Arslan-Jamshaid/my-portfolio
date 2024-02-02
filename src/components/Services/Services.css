@@ -7,11 +7,11 @@
   font-size: large;
   transition: 1s;
 }
-#servicesTitle:hover {
+/* #servicesTitle:hover {
   color: white;
   transition: 1s;
   font-size: x-large;
-}
+} */
 .servicesMain {
   align-items: center;
   justify-content: center;

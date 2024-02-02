@@ -19,12 +19,12 @@
   color: yellow;
   transition: 1.5s;
 }
-#projectTitle:hover {
+/* #projectTitle:hover {
   color: white;
   transition: 1s;
   font-size: x-large;
   cursor: pointer;
-}
+} */
 
 .projectDesc {
   padding: 3rem 0rem 0rem 3rem;

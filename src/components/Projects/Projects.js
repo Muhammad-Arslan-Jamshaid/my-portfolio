@@ -1,7 +1,7 @@
 import React from "react";
 import "./Projects.css";
 import Daraz from "../../assets/DarazClone.png";
-import Form from "../../assets/TextForm.png";
+import Store from "../../assets/Screenshot 2024-02-02 205422.png";
 import Portfolio from "../../assets/My-Portfolio.png";
 import Limelight from "../../assets/LimelightClone.png";
 import KFC from "../../assets/KFCclone.png";
@@ -15,13 +15,13 @@ const Projects = () => {
       </div>
       <p className="projectDesc">
         Here are some of My Projects based on{" "}
-        <span className="reactTitle">React.js</span>!
+        <span className="reactTitle">MERN Stack</span>!
       </p>
       <div className="projectsImages">
         <img className="projectImg" src={Daraz} alt=" Website" />
         <img className="projectImg" src={Portfolio} alt=" Website" />
         <img className="projectImg" src={KFC} alt=" Website" />
-        <img className="projectImg" src={Form} alt=" Website" />
+        <img className="projectImg" src={Store} alt=" Website" />
         <img className="projectImg" src={Limelight} alt=" Website" />
         <img className="projectImg" src={Portfolio2} alt=" Website" />
       </div>

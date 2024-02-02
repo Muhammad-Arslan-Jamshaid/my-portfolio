@@ -10,10 +10,10 @@ const Services = () => {
         </div>
 
         <div className="servicesDesc">
-          <h1 className="head">Website Development</h1>
-          <h1 className="head">UI/UX Designing</h1>
+          <h1 className="head">Frontend Development</h1>
+          <h1 className="head">Backend Technologies</h1>
           <h1 className="head">Database Management</h1>
-          <h1 className="head">Privacy Protection</h1>
+          <h1 className="head">Website Management</h1>
         </div>
       </div>
     </>

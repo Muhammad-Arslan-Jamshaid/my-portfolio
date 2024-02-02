@@ -28,9 +28,13 @@ const Contact = () => {
   return (
     <>
       <div className="mainContact">
-        <div id="contactTitle">
-          <h1>Contact Me</h1>
-        </div>
+  <div id="contactTitle">
+       <h1 >Contact Me</h1>
+
+  </div>
+     
+          
+       
         <p className="contactDesc">
           Please fill out the form below to discuss any work opportunities.
         </p>
@@ -59,7 +63,7 @@ const Contact = () => {
               Lets collaborate
           </button>
         </form>
-      </div>
+       </div>
     </>
   );
 };
