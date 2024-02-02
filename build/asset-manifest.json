@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.62fec4f7.css",
-    "main.js": "/my-portfolio/static/js/main.30727430.js",
-    "static/media/My-Portfolio.png": "/my-portfolio/static/media/My-Portfolio.90c9e7547d13d180d947.png",
-    "static/media/DarazClone.png": "/my-portfolio/static/media/DarazClone.9955bf133049468aae0e.png",
-    "static/media/BackgroundResized.jpg": "/my-portfolio/static/media/BackgroundResized.e91068c200442ca4dbd7.jpg",
-    "static/media/TextForm.png": "/my-portfolio/static/media/TextForm.3a97a4927fe6dc73149f.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.62fec4f7.css.map": "/my-portfolio/static/css/main.62fec4f7.css.map",
-    "main.30727430.js.map": "/my-portfolio/static/js/main.30727430.js.map"
+    "main.css": "/static/css/main.a98d3d3b.css",
+    "main.js": "/static/js/main.385c002b.js",
+    "static/media/My-Portfolio.png": "/static/media/My-Portfolio.5dbdc706e8645aac0023.png",
+    "static/media/Screenshot 2024-02-02 205422.png": "/static/media/Screenshot 2024-02-02 205422.82ee02f20e64c87b6241.png",
+    "static/media/LimelightClone.png": "/static/media/LimelightClone.8d15dbfd0dcb6755be80.png",
+    "static/media/DarazClone.png": "/static/media/DarazClone.9955bf133049468aae0e.png",
+    "static/media/Portfolio2.png": "/static/media/Portfolio2.559d4625948e6a392c27.png",
+    "static/media/KFCclone.png": "/static/media/KFCclone.d36e81f8b400636206ee.png",
+    "static/media/BackgroundResized.jpg": "/static/media/BackgroundResized.e91068c200442ca4dbd7.jpg",
+    "index.html": "/index.html",
+    "main.a98d3d3b.css.map": "/static/css/main.a98d3d3b.css.map",
+    "main.385c002b.js.map": "/static/js/main.385c002b.js.map"
   },
   "entrypoints": [
-    "static/css/main.62fec4f7.css",
-    "static/js/main.30727430.js"
+    "static/css/main.a98d3d3b.css",
+    "static/js/main.385c002b.js"
   ]
 }
